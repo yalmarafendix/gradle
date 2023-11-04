@@ -46,9 +46,3 @@ Enjoy first-class Gradle support in your IDE of choice.
 * Checkout the [Community Resources](https://gradle.org/resources/) as well
 * Join our [Slack Channel](https://gradle.com/slack-invite)
 
-
-## Contributing
-
-If you're looking to contribute to Gradle or provide a patch/pull request, you can find more info [here](https://github.com/gradle/gradle/blob/master/CONTRIBUTING.md).
-
-This project adheres to the [Gradle Code of Conduct](https://gradle.org/conduct/). By participating, you are expected to uphold this code.
